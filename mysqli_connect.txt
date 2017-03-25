@@ -6,7 +6,7 @@ as is needed.
 GRANT INSERT, SELECT, DELETE, UPDATE ON test3.*
 //for some reason database instead of test3 does not work
 TO 'virtualschedulerweb'@'localhost' 
-IDENTIFIED BY 'wearHacks2017!';
+IDENTIFIED BY 'a2+b2=c2';
 SELECT : Select rows in tables
 INSERT : Insert new rows into tables
 UPDATE : Change data in rows
