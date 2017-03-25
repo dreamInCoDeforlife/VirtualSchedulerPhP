@@ -4,7 +4,7 @@ require_once('../mysqli_connect.php');
 
 // Create a query for the database
 $query = "SELECT first_name, last_name, email, street, city, province, zip,
-phone, birth_date,height,weight,allergies,health_card FROM virtualscheduler";
+phone, birth_date,height,weight,allergies,health_card FROM patients";
 
 // Get a response from the database by sending the connection
 // and the query
