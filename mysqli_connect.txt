@@ -15,9 +15,9 @@ DELETE : Delete existing rows (Remove privilege if not required)
 
 // Defined as constants so that they can't be changed
 DEFINE ('DB_USER', 'virtualschedulerweb');
-DEFINE ('DB_PASSWORD', 'wearHacks2017!');
+DEFINE ('DB_PASSWORD', 'a2+b2=c2');
 DEFINE ('DB_HOST', 'localhost');
-DEFINE ('DB_NAME', 'database');
+DEFINE ('DB_NAME', 'test3');
 
 // $dbc will contain a resource link to the database
 // @ keeps the error from showing in the browser
