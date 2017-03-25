@@ -3,7 +3,8 @@
 /*
 Command that gives the database user the least amount of power
 as is needed.
-GRANT INSERT, SELECT, DELETE, UPDATE ON database.* 
+GRANT INSERT, SELECT, DELETE, UPDATE ON test3.*
+//for some reason database instead of test3 does not work
 TO 'virtualschedulerweb'@'localhost' 
 IDENTIFIED BY 'wearHacks2017!';
 SELECT : Select rows in tables
