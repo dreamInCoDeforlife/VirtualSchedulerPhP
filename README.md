@@ -1,6 +1,6 @@
 # VirtualScheduler 
 
-** Wearhacks Kitchner 2016
+** Wearhacks Kitchener 2017
 
 Virtual Scheduler
 
