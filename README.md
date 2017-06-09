@@ -1,5 +1,7 @@
 # VirtualScheduler 
 
+** Wearhacks Kitchner 2016
+
 Virtual Scheduler
 
 In its essence, technology was made to streamline work  ows and to improve time management. However, with how modern technology and businesses are run, it has become increasingly dif  cult to avoid drowning in day-to-day tasks, without having the opportunity to have your daily schedule laid out for you. This is where Virtual Scheduler comes in. Using a clean UI and voice recognition, we can allow Microsoft Hololens to display a virtual time table for each person based on their own individual needs.
