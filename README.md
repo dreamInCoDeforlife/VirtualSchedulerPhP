@@ -2,7 +2,7 @@
 
 ** Wearhacks Kitchener 2017
 
-** Please [click here](Virtual Scheduler.pdf) to view to original document.
+** Please [click](Virtual Scheduler.pdf) here to view to original document.
 
 Virtual Scheduler
 
